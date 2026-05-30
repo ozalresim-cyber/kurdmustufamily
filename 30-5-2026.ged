@@ -3,9 +3,9 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 30 MAY 2026
-2 TIME 20:42:58
+2 TIME 20:48:12
 1 SUBM @SUBM@
-1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
+1 FILE G:\عائلة كرد مصطو\bekup\Untitled_1.ged
 1 COPR Copyright (c) 2026 .
 1 GEDC
 2 VERS 5.5.1
@@ -641,9 +641,10 @@
 2 DATE 30 MAY 2026
 3 TIME 18:19:00
 0 @https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg@ OBJE
-1 FILE c:\users\alrak\pictures\
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg
+2 FORM jpeg
 2 TITL
 1 CHAN
 2 DATE 30 MAY 2026
-3 TIME 20:36:35
+3 TIME 20:47:42
 0 TRLR
