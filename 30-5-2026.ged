@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 31 MAY 2026
-2 TIME 16:57:49
+2 TIME 17:04:15
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -719,12 +719,12 @@
 2 DATE 31 MAY 2026
 3 TIME 16:49:42
 0 @O0009@ OBJE
-1 FILE https://github.com/ozalresim-cyber/kurdmustufamily/blob/main/muhammad%20musto%20ali%20km.jpg
-2 FORM jpg
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/muhammad111%20musto%20km.jpeg
+2 FORM jpeg
 2 TITL
 1 CHAN
 2 DATE 31 MAY 2026
-3 TIME 16:50:36
+3 TIME 17:03:18
 0 @O0010@ OBJE
 1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/musto%20ali%20km.png
 2 FORM png
