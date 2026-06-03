@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 3 JUN 2026
-2 TIME 20:16:07
+2 TIME 22:04:46
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -235,10 +235,11 @@
 2 DATE 1972
 1 FAMC @F0003@
 2 PEDI birth
+1 FAMS @F0017@
 1 OBJE @O0007@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:44:43
+3 TIME 21:20:51
 0 @I0017@ INDI
 1 NAME محمد //
 2 TYPE birth
@@ -262,10 +263,11 @@
 2 DATE 1979
 1 FAMC @F0003@
 2 PEDI birth
+1 FAMS @F0016@
 1 OBJE @O0003@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:44:43
+3 TIME 20:59:56
 0 @I0019@ INDI
 1 NAME يوسف //
 2 TYPE birth
@@ -376,10 +378,11 @@
 2 DATE 1978
 1 FAMC @F0005@
 2 PEDI birth
+1 FAMS @F0020@
 1 OBJE @O0015@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:44:11
+3 TIME 22:04:02
 0 @I0028@ INDI
 1 NAME عمر //
 2 TYPE birth
@@ -402,10 +405,11 @@
 2 DATE 1982
 1 FAMC @F0005@
 2 PEDI birth
+1 FAMS @F0019@
 1 OBJE @O0016@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:44:11
+3 TIME 21:54:09
 0 @I0030@ INDI
 1 NAME رامز //
 2 TYPE birth
@@ -812,7 +816,7 @@
 2 PEDI birth
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:44:11
+3 TIME 21:13:19
 0 @I0065@ INDI
 1 NAME نجلاء //
 2 TYPE birth
@@ -1236,6 +1240,311 @@
 1 CHAN
 2 DATE 3 JUN 2026
 3 TIME 20:04:17
+0 @I0101@ INDI
+1 NAME مصطفى //
+2 TYPE birth
+2 GIVN مصطفى
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F0016@
+2 PEDI birth
+1 OBJE @O0046@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @I0102@ INDI
+1 NAME محمد نور //
+2 TYPE birth
+2 GIVN محمد نور
+1 SEX M
+1 BIRT
+2 DATE 2006
+1 FAMC @F0016@
+2 PEDI birth
+1 OBJE @O0047@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @I0103@ INDI
+1 NAME عدنان //
+2 TYPE birth
+2 GIVN عدنان
+1 SEX M
+1 BIRT
+2 DATE 2016
+1 FAMC @F0016@
+2 PEDI birth
+1 OBJE @O0044@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @I0104@ INDI
+1 NAME مروان //
+2 TYPE birth
+2 GIVN مروان
+1 SEX M
+1 BIRT
+2 DATE 2019
+1 FAMC @F0016@
+2 PEDI birth
+1 OBJE @O0045@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @I0105@ INDI
+1 NAME فاطمة //
+2 TYPE birth
+2 GIVN فاطمة
+1 SEX F
+1 BIRT
+2 DATE 2010
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @I0106@ INDI
+1 NAME جنى //
+2 TYPE birth
+2 GIVN جنى
+1 SEX F
+1 BIRT
+2 DATE 2023
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @I0107@ INDI
+1 NAME هالة /احمد كرد مصطو/
+2 TYPE birth
+2 GIVN هالة
+2 SPFX احمد كرد مصطو
+1 SEX F
+1 FAMS @F0016@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @I0108@ INDI
+1 NAME فاطمة /احمد كرد مصطو/
+2 TYPE birth
+2 GIVN فاطمة
+2 SPFX احمد كرد مصطو
+1 SEX F
+1 FAMS @F0017@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:20:51
+0 @I0109@ INDI
+1 NAME مصطفى //
+2 TYPE birth
+2 GIVN مصطفى
+1 SEX M
+1 BIRT
+2 DATE 2000
+1 DEAT
+2 DATE 2017
+1 FAMC @F0017@
+2 PEDI birth
+1 OBJE @O0048@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:35:31
+0 @I0110@ INDI
+1 NAME احمد //
+2 TYPE birth
+2 GIVN احمد
+1 SEX M
+1 BIRT
+2 DATE 2005
+1 FAMC @F0017@
+2 PEDI birth
+1 FAMS @F0018@
+1 OBJE @O0049@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:44:13
+0 @I0111@ INDI
+1 NAME عبد الرحمن //
+2 TYPE birth
+2 GIVN عبد الرحمن
+1 SEX M
+1 BIRT
+2 DATE 2009
+1 FAMC @F0017@
+2 PEDI birth
+1 OBJE @O0050@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:37:24
+0 @I0112@ INDI
+1 NAME بلال //
+2 TYPE birth
+2 GIVN بلال
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F0017@
+2 PEDI birth
+1 OBJE @O0051@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:38:08
+0 @I0113@ INDI
+1 NAME آلاء //
+2 TYPE birth
+2 GIVN آلاء
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F0017@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:20:51
+0 @I0114@ INDI
+1 NAME فاطمة حمشو //
+2 TYPE birth
+2 GIVN فاطمة حمشو
+1 SEX F
+1 BIRT
+2 DATE 2009
+1 FAMS @F0018@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:44:13
+0 @I0115@ INDI
+1 NAME شهد //
+2 TYPE birth
+2 GIVN شهد
+1 SEX F
+1 BIRT
+2 DATE 2024
+1 FAMC @F0018@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:44:13
+0 @I0116@ INDI
+1 NAME حسناء /السمان/
+2 TYPE birth
+2 GIVN حسناء
+2 SPFX السمان
+1 SEX F
+1 FAMS @F0019@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:54:09
+0 @I0117@ INDI
+1 NAME احمد //
+2 TYPE birth
+2 GIVN احمد
+1 SEX M
+1 BIRT
+2 DATE 2017
+1 FAMC @F0019@
+2 PEDI birth
+1 OBJE @O0052@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:54:09
+0 @I0118@ INDI
+1 NAME دلال //
+2 TYPE birth
+2 GIVN دلال
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:54:09
+0 @I0119@ INDI
+1 NAME رفاه //
+2 TYPE birth
+2 GIVN رفاه
+1 SEX F
+1 BIRT
+2 DATE 2013
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:54:09
+0 @I0120@ INDI
+1 NAME ميس //
+2 TYPE birth
+2 GIVN ميس
+1 SEX F
+1 BIRT
+2 DATE 2015
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:54:09
+0 @I0121@ INDI
+1 NAME سعاد /مصطفى كرد مصطو/
+2 TYPE birth
+2 GIVN سعاد
+2 SPFX مصطفى كرد مصطو
+1 SEX F
+1 FAMS @F0020@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:04:02
+0 @I0122@ INDI
+1 NAME احمد //
+2 TYPE birth
+2 GIVN احمد
+1 SEX M
+1 BIRT
+2 DATE 2005
+1 FAMC @F0020@
+2 PEDI birth
+1 OBJE @O0053@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:04:02
+0 @I0123@ INDI
+1 NAME حمزة //
+2 TYPE birth
+2 GIVN حمزة
+1 SEX M
+1 BIRT
+2 DATE 2013
+1 FAMC @F0020@
+2 PEDI birth
+1 OBJE @O0054@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:04:02
+0 @I0124@ INDI
+1 NAME دان //
+2 TYPE birth
+2 GIVN دان
+1 SEX F
+1 BIRT
+2 DATE 2009
+1 FAMC @F0020@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:04:02
+0 @I0125@ INDI
+1 NAME دانيا //
+2 TYPE birth
+2 GIVN دانيا
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F0020@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:04:02
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -1416,6 +1725,56 @@
 1 CHAN
 2 DATE 3 JUN 2026
 3 TIME 20:04:17
+0 @F0016@ FAM
+1 HUSB @I0018@
+1 WIFE @I0107@
+1 CHIL @I0101@
+1 CHIL @I0102@
+1 CHIL @I0103@
+1 CHIL @I0104@
+1 CHIL @I0105@
+1 CHIL @I0106@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:13:03
+0 @F0017@ FAM
+1 HUSB @I0016@
+1 WIFE @I0108@
+1 CHIL @I0109@
+1 CHIL @I0110@
+1 CHIL @I0111@
+1 CHIL @I0112@
+1 CHIL @I0113@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:20:51
+0 @F0018@ FAM
+1 HUSB @I0110@
+1 WIFE @I0114@
+1 CHIL @I0115@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:44:13
+0 @F0019@ FAM
+1 HUSB @I0029@
+1 WIFE @I0116@
+1 CHIL @I0117@
+1 CHIL @I0118@
+1 CHIL @I0119@
+1 CHIL @I0120@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:54:09
+0 @F0020@ FAM
+1 HUSB @I0027@
+1 WIFE @I0121@
+1 CHIL @I0122@
+1 CHIL @I0123@
+1 CHIL @I0124@
+1 CHIL @I0125@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:04:02
 0 @N0000@ NOTE Records not imported into OBJE (multi-media object) Gramps ID O0040
 1 CONC :
 1 CONT 
@@ -1730,6 +2089,83 @@
 1 CHAN
 2 DATE 3 JUN 2026
 3 TIME 20:09:21
+0 @O0044@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/adnan%20ahmed%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:05:28
+0 @O0045@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/mrwan%20ahmed%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:06:47
+0 @O0046@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/mustafa%20ahmed%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:07:46
+0 @O0047@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/muhamed%20nur%20ahmed%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:10:39
+0 @O0048@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/mustafa%20mahmud%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:35:29
+0 @O0049@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ahmed%20mahmud%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:36:22
+0 @O0050@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/abdalrahman%20mahmud%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:37:22
+0 @O0051@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/bilal%20mahmud%20musto%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:38:07
+0 @O0052@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ahmed%20adnan%20ahmed%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 21:54:03
+0 @O0053@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ahmed%20ali%20ahmed%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:02:50
+0 @O0054@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/hamza%20ali%20ahmed%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 22:03:57
 0 @https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg@ OBJE
 1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg
 2 FORM jpeg
