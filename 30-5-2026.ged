@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 3 JUN 2026
-2 TIME 19:52:48
+2 TIME 20:09:50
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -314,10 +314,11 @@
 2 DATE 1970
 1 FAMC @F0004@
 2 PEDI birth
+1 FAMS @F0015@
 1 OBJE @O0017@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:44:27
+3 TIME 20:04:17
 0 @I0023@ INDI
 1 NAME أحمد //
 2 TYPE birth
@@ -1125,7 +1126,7 @@
 1 OBJE @O0038@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:41:26
+3 TIME 19:59:23
 0 @I0092@ INDI
 1 NAME انور //
 2 TYPE birth
@@ -1138,7 +1139,7 @@
 1 OBJE @O0039@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:41:26
+3 TIME 19:59:23
 0 @I0093@ INDI
 1 NAME نادر //
 2 TYPE birth
@@ -1151,7 +1152,7 @@
 1 OBJE @O0042@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:41:26
+3 TIME 19:59:23
 0 @I0094@ INDI
 1 NAME علي //
 2 TYPE birth
@@ -1164,7 +1165,78 @@
 1 OBJE @O0041@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:41:26
+3 TIME 19:59:23
+0 @I0095@ INDI
+1 NAME فاطمة //
+2 TYPE birth
+2 GIVN فاطمة
+1 SEX F
+1 BIRT
+2 DATE 2003
+1 FAMC @F0014@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 19:59:23
+0 @I0096@ INDI
+1 NAME عبير /الشيخ شوك/
+2 TYPE birth
+2 GIVN عبير
+2 SPFX الشيخ شوك
+1 SEX F
+1 FAMS @F0015@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 20:04:17
+0 @I0097@ INDI
+1 NAME محمد //
+2 TYPE birth
+2 GIVN محمد
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1999
+1 FAMC @F0015@
+2 PEDI birth
+1 OBJE @O0043@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 20:09:22
+0 @I0098@ INDI
+1 NAME حلا //
+2 TYPE birth
+2 GIVN حلا
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 20:04:17
+0 @I0099@ INDI
+1 NAME تسنيم //
+2 TYPE birth
+2 GIVN تسنيم
+1 SEX F
+1 BIRT
+2 DATE 2005
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 20:04:17
+0 @I0100@ INDI
+1 NAME نور //
+2 TYPE birth
+2 GIVN نور
+1 SEX F
+1 BIRT
+2 DATE 2014
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 20:04:17
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -1331,9 +1403,20 @@
 1 CHIL @I0092@
 1 CHIL @I0093@
 1 CHIL @I0094@
+1 CHIL @I0095@
 1 CHAN
 2 DATE 3 JUN 2026
-3 TIME 19:41:26
+3 TIME 19:59:23
+0 @F0015@ FAM
+1 HUSB @I0022@
+1 WIFE @I0096@
+1 CHIL @I0097@
+1 CHIL @I0098@
+1 CHIL @I0099@
+1 CHIL @I0100@
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 20:04:17
 0 @N0000@ NOTE Records not imported into OBJE (multi-media object) Gramps ID O0040
 1 CONC :
 1 CONT 
@@ -1641,6 +1724,13 @@
 1 CHAN
 2 DATE 3 JUN 2026
 3 TIME 00:06:53
+0 @O0043@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/muhamed%20ali%20muhamed%20ali%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 3 JUN 2026
+3 TIME 20:09:21
 0 @https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg@ OBJE
 1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg
 2 FORM jpeg
