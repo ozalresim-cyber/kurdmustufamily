@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
-1 DATE 3 JUN 2026
-2 TIME 22:04:46
+1 DATE 4 JUN 2026
+2 TIME 20:23:22
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -162,10 +162,10 @@
 1 FAMC @F0002@
 2 PEDI birth
 1 FAMS @F0006@
-1 OBJE @O0013@
+1 OBJE @O0055@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 19:44:55
+2 DATE 4 JUN 2026
+3 TIME 20:16:29
 0 @I0011@ INDI
 1 NAME سعاد //
 2 TYPE birth
@@ -236,10 +236,10 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0017@
-1 OBJE @O0007@
+1 OBJE @O0057@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 21:20:51
+2 DATE 4 JUN 2026
+3 TIME 20:21:40
 0 @I0017@ INDI
 1 NAME محمد //
 2 TYPE birth
@@ -250,10 +250,10 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0012@
-1 OBJE @O0009@
+1 OBJE @O0056@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 19:44:43
+2 DATE 4 JUN 2026
+3 TIME 20:18:00
 0 @I0018@ INDI
 1 NAME أحمد //
 2 TYPE birth
@@ -1347,10 +1347,10 @@
 2 DATE 2017
 1 FAMC @F0017@
 2 PEDI birth
-1 OBJE @O0048@
+1 OBJE @O0058@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 21:35:31
+2 DATE 4 JUN 2026
+3 TIME 20:22:53
 0 @I0110@ INDI
 1 NAME احمد //
 2 TYPE birth
@@ -2166,6 +2166,34 @@
 1 CHAN
 2 DATE 3 JUN 2026
 3 TIME 22:03:57
+0 @O0055@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/yusuf%20ali%20musto%20km.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 4 JUN 2026
+3 TIME 20:16:28
+0 @O0056@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/muhammad111%20musto%20km.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 4 JUN 2026
+3 TIME 20:17:58
+0 @O0057@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/mahmud%20musto%20km.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 4 JUN 2026
+3 TIME 20:21:39
+0 @O0058@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/mustafa%20mahmud%20musto%20ali%20km.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 4 JUN 2026
+3 TIME 20:22:51
 0 @https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg@ OBJE
 1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg
 2 FORM jpeg
