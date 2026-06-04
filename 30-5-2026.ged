@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 4 JUN 2026
-2 TIME 21:07:56
+2 TIME 21:40:42
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -22,13 +22,16 @@
 1 SEX M
 1 BIRT
 2 TYPE في مدينة باسكيل التركية
+2 DATE 1866
+1 DEAT
+2 DATE 1914
 1 RESI
 2 DATE باسكيل التابعة لملاطية
 1 FAMS @F0000@
 1 FAMS @F0001@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 19:45:48
+2 DATE 4 JUN 2026
+3 TIME 21:39:18
 0 @I0001@ INDI
 1 NAME زوجة تركية //
 2 TYPE birth
@@ -83,7 +86,7 @@
 2 GIVN علي
 1 SEX M
 1 BIRT
-2 DATE 1895
+2 DATE 1905
 1 DEAT
 2 DATE 1967
 1 FAMC @F0001@
@@ -532,15 +535,15 @@
 2 DATE 3 JUN 2026
 3 TIME 19:43:42
 0 @I0039@ INDI
-1 NAME فاطمة /غوراني/
+1 NAME فاطمة /كوراني/
 2 TYPE birth
 2 GIVN فاطمة
-2 SPFX غوراني
+2 SPFX كوراني
 1 SEX F
 1 FAMS @F0008@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 19:43:26
+2 DATE 4 JUN 2026
+3 TIME 21:15:50
 0 @I0040@ INDI
 1 NAME أحمد /(أيوبي)/
 2 TYPE birth
