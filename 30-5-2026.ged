@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 6 JUN 2026
-2 TIME 21:43:02
+2 TIME 23:12:41
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -2070,15 +2070,15 @@
 2 DATE 5 JUN 2026
 3 TIME 22:33:34
 0 @I0170@ INDI
-1 NAME ٱمنة /علي عبد الوهاب/
+1 NAME ٱمنة /علي عبد الرزاق/
 2 TYPE birth
 2 GIVN ٱمنة
-2 SPFX علي عبد الوهاب
+2 SPFX علي عبد الرزاق
 1 SEX F
 1 FAMS @F0030@
 1 CHAN
-2 DATE 5 JUN 2026
-3 TIME 23:00:03
+2 DATE 6 JUN 2026
+3 TIME 23:11:25
 0 @I0171@ INDI
 1 NAME محمد //
 2 TYPE birth
