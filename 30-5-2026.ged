@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 8 JUN 2026
-2 TIME 21:33:40
+2 TIME 22:13:41
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -1865,9 +1865,10 @@
 1 SEX M
 1 FAMC @F0026@
 2 PEDI birth
+1 OBJE @O0113@
 1 CHAN
 2 DATE 8 JUN 2026
-3 TIME 20:49:56
+3 TIME 22:09:05
 0 @I0152@ INDI
 1 NAME جواد //
 2 TYPE birth
@@ -1875,9 +1876,10 @@
 1 SEX M
 1 FAMC @F0026@
 2 PEDI birth
+1 OBJE @O0112@
 1 CHAN
 2 DATE 8 JUN 2026
-3 TIME 20:49:56
+3 TIME 22:07:47
 0 @I0153@ INDI
 1 NAME فاطمة الزهراء //
 2 TYPE birth
@@ -2116,11 +2118,14 @@
 2 TYPE birth
 2 GIVN علي
 1 SEX M
+1 BIRT
+2 DATE 1998
 1 FAMC @F0030@
 2 PEDI birth
+1 OBJE @O0114@
 1 CHAN
 2 DATE 8 JUN 2026
-3 TIME 20:48:54
+3 TIME 22:13:04
 0 @I0174@ INDI
 1 NAME نور //
 2 TYPE birth
@@ -3468,6 +3473,27 @@
 1 CHAN
 2 DATE 7 JUN 2026
 3 TIME 00:05:40
+0 @O0112@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/abd%20aljwad%20muhamed%20adnan%20ahmed%20musto%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 8 JUN 2026
+3 TIME 22:07:45
+0 @O0113@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/adnan%20muhamed%20adnan%20ahmed%20musto%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 8 JUN 2026
+3 TIME 22:09:04
+0 @O0114@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20ahmed%20muhamed%20ahmed%20musto%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 8 JUN 2026
+3 TIME 22:12:40
 0 @https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg@ OBJE
 1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg
 2 FORM jpeg
