@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
-1 DATE 10 JUN 2026
-2 TIME 22:29:34
+1 DATE 14 JUN 2026
+2 TIME 00:04:59
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -512,9 +512,11 @@
 1 FAMC @F0007@
 2 PEDI birth
 1 FAMS @F0009@
+1 OBJE @O0124@
+1 OBJE @O0125@
 1 CHAN
-2 DATE 8 JUN 2026
-3 TIME 20:35:20
+2 DATE 13 JUN 2026
+3 TIME 23:58:37
 0 @I0037@ INDI
 1 NAME عبد الحميد //
 2 TYPE birth
@@ -3574,6 +3576,20 @@
 1 CHAN
 2 DATE 8 JUN 2026
 3 TIME 23:20:59
+0 @O0124@ OBJE
+1 FILE G:\عائلة كرد مصطو\عائلة اخمد مصطو كرد مصطو\عائلة محمد احمد مستو كرد مستو\muhamed ahmed musto km.jpeg
+2 FORM jpeg
+2 TITL muhamed ahmed musto km
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:56:01
+0 @O0125@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/muhamed%20ahmed%20musto%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 13 JUN 2026
+3 TIME 23:58:35
 0 @https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg@ OBJE
 1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg
 2 FORM jpeg
