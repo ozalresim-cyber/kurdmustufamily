@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
 1 DATE 16 JUN 2026
-2 TIME 21:09:03
+2 TIME 22:25:57
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\tersan.ged
 1 COPR Copyright (c) 2026 .
@@ -660,14 +660,15 @@
 2 DATE 16 JUN 2026
 3 TIME 20:53:52
 0 @I0056@ INDI
-1 NAME Fatima Hıdır'in kızı //
+1 NAME Fatima /Hıdır'in kızı/
 2 TYPE birth
-2 GIVN Fatima Hıdır'in kızı
+2 GIVN Fatima
+2 SPFX Hıdır'in kızı
 1 SEX F
 1 FAMS @F0021@
 1 CHAN
 2 DATE 16 JUN 2026
-3 TIME 20:19:30
+3 TIME 22:25:19
 0 @I0057@ INDI
 1 NAME Ayşe /( عائشة)/
 2 TYPE birth
@@ -819,14 +820,15 @@
 2 DATE 16 JUN 2026
 3 TIME 20:59:18
 0 @I0070@ INDI
-1 NAME Besi, Mustafa'nın kızı //
+1 NAME Besi /Mustafa'nın kızı/
 2 TYPE birth
-2 GIVN Besi, Mustafa'nın kızı
+2 GIVN Besi
+2 SPFX Mustafa'nın kızı
 1 SEX F
 1 FAMS @F0024@
 1 CHAN
 2 DATE 16 JUN 2026
-3 TIME 00:07:01
+3 TIME 22:24:58
 0 @I0071@ INDI
 1 NAME Turan /طوران/
 2 TYPE birth
