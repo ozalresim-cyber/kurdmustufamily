@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
-1 DATE 16 JUN 2026
-2 TIME 22:33:29
+1 DATE 17 JUN 2026
+2 TIME 20:11:38
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\tersan.ged
 1 COPR Copyright (c) 2026 .
@@ -780,9 +780,11 @@
 2 PEDI birth
 1 FAMS @F0030@
 1 FAMS @F0031@
+1 OBJE @O0004@
+1 OBJE @O0005@
 1 CHAN
-2 DATE 16 JUN 2026
-3 TIME 19:41:14
+2 DATE 17 JUN 2026
+3 TIME 20:08:59
 0 @I0067@ INDI
 1 NAME Zübeyir /( زبير)/
 2 TYPE birth
@@ -1780,4 +1782,18 @@
 1 CHAN
 2 DATE 16 JUN 2026
 3 TIME 19:56:57
+0 @O0004@ OBJE
+1 FILE G:\عائلة كرد مصطو\صور قديمة للعائلة\نديم الهان\musa nedimin babasi.jpeg
+2 FORM jpeg
+2 TITL musa nedimin babasi
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:07:24
+0 @O0005@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/musa%20nedimin%20babasi.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:08:56
 0 TRLR
