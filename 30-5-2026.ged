@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.8--1
 2 NAME Gramps
-1 DATE 14 JUN 2026
-2 TIME 17:55:05
+1 DATE 28 JUN 2026
+2 TIME 21:41:06
 1 SUBM @SUBM@
 1 FILE G:\عائلة كرد مصطو\bekup\30-5-2026.ged
 1 COPR Copyright (c) 2026 .
@@ -543,9 +543,11 @@
 2 DATE 1976
 1 FAMC @F0007@
 2 PEDI birth
+1 OBJE @O0128@
+1 OBJE @O0129@
 1 CHAN
 2 DATE 14 JUN 2026
-3 TIME 09:46:46
+3 TIME 18:20:27
 0 @I0039@ INDI
 1 NAME فاطمة /كوراني/
 2 TYPE birth
@@ -1456,8 +1458,8 @@
 1 FAMC @F0018@
 2 PEDI birth
 1 CHAN
-2 DATE 14 JUN 2026
-3 TIME 09:43:15
+2 DATE 28 JUN 2026
+3 TIME 19:42:39
 0 @I0116@ INDI
 1 NAME حسناء /السمان/
 2 TYPE birth
@@ -2249,6 +2251,18 @@
 1 CHAN
 2 DATE 14 JUN 2026
 3 TIME 09:35:56
+0 @I0181@ INDI
+1 NAME محمود //
+2 TYPE birth
+2 GIVN محمود
+1 SEX M
+1 BIRT
+2 DATE 5 JAN 2026
+1 FAMC @F0018@
+2 PEDI birth
+1 CHAN
+2 DATE 28 JUN 2026
+3 TIME 19:42:39
 0 @I0182@ INDI
 1 NAME علي //
 2 TYPE birth
@@ -2492,9 +2506,10 @@
 1 HUSB @I0110@
 1 WIFE @I0114@
 1 CHIL @I0115@
+1 CHIL @I0181@
 1 CHAN
-2 DATE 14 JUN 2026
-3 TIME 09:43:15
+2 DATE 28 JUN 2026
+3 TIME 19:42:39
 0 @F0019@ FAM
 1 HUSB @I0029@
 1 WIFE @I0116@
@@ -3674,6 +3689,20 @@
 1 CHAN
 2 DATE 14 JUN 2026
 3 TIME 09:34:16
+0 @O0128@ OBJE
+1 FILE G:\عائلة كرد مصطو\عائلة اخمد مصطو كرد مصطو\mustafa ahmed  musto km.jpeg
+2 FORM jpeg
+2 TITL mustafa ahmed  musto km
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 18:20:13
+0 @O0129@ OBJE
+1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/mustafa%20ahmed%20%20musto%20km.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 14 JUN 2026
+3 TIME 18:20:25
 0 @https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg@ OBJE
 1 FILE https://raw.githubusercontent.com/ozalresim-cyber/kurdmustufamily/refs/heads/main/ali%20musto%20km.jpeg
 2 FORM jpeg
